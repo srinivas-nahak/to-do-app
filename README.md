@@ -1,6 +1,4 @@
-# to_do_app
-
-A todo app.
+# A simple todo app.
 
 ## Getting Started
 
